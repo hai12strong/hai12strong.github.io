@@ -14,7 +14,7 @@ Hai Duong is a PhD candidate at University of Glasgow. His research interests in
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="contact"></a>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
@@ -30,11 +30,11 @@ Hai Duong is a PhD candidate at University of Glasgow. His research interests in
     </div>
 </div>
 
-<div class="navbar">
+<div class="navbar">    
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
+          <li><a href="https://hai12strong.github.io/">GitHub</a></li>
           <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
       </ul>
   </div>
