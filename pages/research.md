@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Research
-description: Blue Ham's research
+description: Hai Duong's research
 ---
 
 
 
-#### <u>The effects of increased eye contact on feeding portions</u>
-*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
+#### <u>“Does spoofing erode market welfare?”</u>
+*My job market paper, “Does spoofing erode market welfare?” (joint with prof. Bart Taub) explores spoofing from historical, economics and regulatory perspectives. Over the past decades, spoofing is the main target of regulators around the world.  Nearly 10% number of cases filed by CFTC in 2020 involved spoofing. In contrast, there is nearly no scholarly attention paid to spoofing in economic literature. Our paper is the first paper that provide a testable framework for spoofing. In the paper, we present a model of strategic interactions between a spoofer and an anticipatory trader who can observe the signal of the fundamental informed investor's order in the second period. Learning the anticipatory trading strategy,  the spoofer submits a spoofing order to mislead the anticipatory trader about the incoming order. The order anticipation HFT protects itself by reducing its market participation. A pure strategy spoofing equilibrium exists and both traders make positive profits. While spoofing delays price discovery in a short horizon, price divergence will be so brief as to have no little economic efficiency implications. Contrary to misgivings expressed by some regulators and market participants, spoofing improves market liquidity and fosters uninformed traders' welfare. By examining dozens of legal spoofing cases and its victims’ testimony, we pointed out that the main victims are HFTs that employ order anticipation strategies. .*
 
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
 
