@@ -5,7 +5,8 @@ description: Hai Duong is a PhD candidate at University of Glasgow.
 keywords: Finanical economcis, market microstructure, price impact, spoofing, 
 ---
 
-Welcome to my website. My name is Hai Van Duong, a PhD candidate at University of Glasgow. My research interest is in financial economics with a substantive focus on financial market microstructure and fintech. I use both theory and statistical methods to understand how different financial markets work. I
+Welcome to my website. My name is Hai Van Duong, a PhD candidate at University of Glasgow. My research interest is in financial economics with a substantive focus on financial market microstructure and fintech. I use both theory and statistical methods to understand how different financial markets work.
+
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 
