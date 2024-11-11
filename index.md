@@ -35,7 +35,7 @@ Welcome to my website. My name is Hai Van Duong, a PhD candidate at University o
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://hai12strong.github.io/">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+         
       </ul>
   </div>
 </div>
